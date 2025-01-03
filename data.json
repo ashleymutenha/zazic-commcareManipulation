@@ -163,14 +163,6 @@
                 "District": "MATOBO",
                 "reason_for_referral": "Client has rash and was linked to OPD",
                 "services_referred": "OPD"
-            },
-            {
-                "ReferrelRecordingMonth": "December",
-                "ReferrelRecordingSite": "Sankonjana",
-                "ReferrelRecordingYear": 2024,
-                "District": "MATOBO",
-                "reason_for_referral": 0,
-                "services_referred": 0
             }
         ]
     },
@@ -910,14 +902,6 @@
                 "District": "GOKWE SOUTH",
                 "reason_for_referral": "Client had  severe fever",
                 "services_referred": "OPD"
-            },
-            {
-                "ReferrelRecordingMonth": "November",
-                "ReferrelRecordingSite": "Katema RDC",
-                "ReferrelRecordingYear": 2024,
-                "District": "GOKWE SOUTH",
-                "reason_for_referral": 0,
-                "services_referred": 0
             }
         ]
     },
